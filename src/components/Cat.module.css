@@ -1,0 +1,21 @@
+.head{
+    
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: rgba(15, 68, 74, 0.671);
+    
+}
+.menu{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-left: 350px;
+}
+.textMenu{
+    margin: 20px;
+    list-style-type: none;
+}
+.img{
+    margin-left: 55px;
+}
